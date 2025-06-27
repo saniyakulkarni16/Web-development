@@ -1,4 +1,5 @@
 🛒 Amazon Clone
+
 A responsive Amazon.com clone built using HTML, CSS, and JavaScript. This project replicates the front-end of Amazon’s homepage, including header navigation, product cards, login section (static), and shopping cart UI – showcasing modern web design and DOM manipulation techniques.
 
 🔧 Features
